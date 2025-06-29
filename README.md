@@ -314,4 +314,4 @@ Clone, cite, and reuse responsibly.
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2025-06-29*
